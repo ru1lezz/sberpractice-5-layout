@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">LayoutPractice1</string>
+    <string name="textviewHorizontal1">TextView</string>
+    <string name="textviewHorizontal2">TextView</string>
+    <string name="textviewHorizontal3">TextView</string>
+    <string name="buttonRelative1">Button</string>
+    <string name="buttonRelative2">Button</string>
+    <string name="buttonRelative3">Button</string>
+    <string name="buttonRelative4">Button</string>
+    <string name="buttonRelative5">Button</string>
+    <string name="textviewVertical1">TextView</string>
+    <string name="textviewVertical2">TextView</string>
+    <string name="textviewVertical3">TextView</string>
+    <string name="buttonConstraint1">Button</string>
+    <string name="buttonConstraint2">Button</string>
+</resources>
